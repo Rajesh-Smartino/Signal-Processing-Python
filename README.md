@@ -7,4 +7,4 @@ The set of codes written in Assignments, LABs and Projects for the course CS571 
 - Lab Questions
 - Python codes
 - Jupyeter notebooks
-- All inputs
+- Dataset
